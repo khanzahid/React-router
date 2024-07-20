@@ -11,7 +11,7 @@ const CreatePost = () => {
         <input
           type="text"
           name="userId"
-          className="form-control"
+          className="form-control userId"
           id="userId"
           placeholder="Your User Id"
         />

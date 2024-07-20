@@ -12,7 +12,7 @@ function App() {
 
   return (
     <PostListProvider>
-      <div className="app-container">
+      <div className="app-container app-wrapper">
         <Sidebar
           selectedTab={selectedTab}
           setSelectedTab={setSelectedTab}
